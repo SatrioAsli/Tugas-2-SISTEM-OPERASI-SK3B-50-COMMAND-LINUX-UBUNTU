@@ -62,11 +62,24 @@ KELAS  : SK3B
 
 13. touch - Membuat file kosong baru atau memperbarui timestamp file.
 14.cat - Menampilkan isi file ke layar.
+![Screenshot 2024-08-30 171039](https://github.com/user-attachments/assets/434457cc-0c89-419c-bc92-c811205bc380)
+
+
 15. less - Menampilkan isi file per halaman.
 16. head  menampilkan 5 baris pertama dari file
+
+![Screenshot 2024-08-30 170841](https://github.com/user-attachments/assets/adbf033b-64f7-4ae7-ab93-8614b9ee8d4d)
+
+
 17. tail   menampilkan 5 terakhir pertama dari file
+![Screenshot 2024-08-30 170848](https://github.com/user-attachments/assets/930b5e0f-5c72-46b7-8163-b5cca9fbb63a)
+
+
 18. more - Menampilkan isi file per halaman (lebih sederhana dari `less`).
 19. echo - Mencetak teks ke terminal.
+![Screenshot 2024-08-30 170455](https://github.com/user-attachments/assets/b15ed0de-785f-4df5-8a59-f71160c31fb6)
+
+
 20. find- Mencari file atau direktori berdasarkan kriteria tertentu.
 ![16](https://github.com/user-attachments/assets/7c4a97c4-c9a7-46b9-9bee-de1859d4b6e3)
 
@@ -75,7 +88,12 @@ KELAS  : SK3B
 ![17](https://github.com/user-attachments/assets/f17ed36b-8b51-489a-9007-526af7d1c2d6)
 
 22. df- Menampilkan informasi tentang penggunaan ruang disk.
+![36](https://github.com/user-attachments/assets/0ab751c8-5197-4054-81b6-a17f09a2e9cc)
+
+
 23. du - Menampilkan ukuran file atau direktori.
+![Screenshot 2024-08-30 170331](https://github.com/user-attachments/assets/d803be7b-e0cd-46d8-adaf-7f322311591b)
+
 24. ps- Menampilkan daftar proses yang sedang berjalan.
 ![33](https://github.com/user-attachments/assets/d34e808b-0691-42bc-a671-9b3c43118acb)
 
@@ -88,37 +106,58 @@ KELAS  : SK3B
 
 
 27. locate - berfungsi untuk menampilkan lokasi dari file 
+![34](https://github.com/user-attachments/assets/45ad23fa-e0ea-423f-8c09-986c0a430e81)
+
+
+
 28. which- Command prompt ini berfungsiuntuk menampilkan dimana lokasi bin dari perintah yang sedang dijalankan
+![Screenshot 2024-08-30 172014](https://github.com/user-attachments/assets/16bea83d-d7c3-4591-adad-e5c5f4827a29)
+![Screenshot 2024-08-30 171924](https://github.com/user-attachments/assets/83cd046f-833a-4d01-ad97-56ba96537155)
+
 29. whereis - Command prompt ini berfungsi untuk menampilkan lokasi file atau program yang sedang dijalankan
 ![32](https://github.com/user-attachments/assets/64667bce-d950-40ac-a20e-d04b3f84fef9)
 
 
 30. zip - Mengompres file atau direktori menjadi file ZIP.
+![43 zip](https://github.com/user-attachments/assets/c232446e-4719-4948-8de6-d9e7efa6e9bb)
+
+
 31. unzip - Mengekstrak file ZIP.
 32. gzip - Command prompt ini berfungsi untuk mengkompress file biiasa menjadi sebuah arsip dengan tipe gzip
+![38](https://github.com/user-attachments/assets/b1e48074-b1b1-4d3a-ab52-b88239af3f3a)
+
+
+
 33. gunzip - Command prompt ini berfungsi untuk mendekompress arsip nama.gz menjadi sebuah file biasa
+![39](https://github.com/user-attachments/assets/2c768156-3ce0-4c49-936e-47e6d0e2c985)
+
+
+
 34. wget- Mengunduh file dari internet.
+![hasil wget](https://github.com/user-attachments/assets/bb438108-82ee-426c-bae9-0c0431755bb0)
+
 35. curl- Mengirim permintaan HTTP dan menampilkan hasilnya (digunakan untuk mengunduh data atau file).
 ![25](https://github.com/user-attachments/assets/d3a9a878-3093-48fe-bbbc-9c26eb98a9cb)
 
 
 
 36. nano- Editor teks berbasis terminal yang sederhana.
+![Screenshot 2024-08-30 170635](https://github.com/user-attachments/assets/6cac1603-34d2-4d85-9813-fc77fa4c9ec6)
+![nano](https://github.com/user-attachments/assets/095d80b8-d150-4785-bda5-131526c46c88)
+
+
 37. route -Command prompt ini berfungsi untuk menampilkan table routing
 ![28](https://github.com/user-attachments/assets/663b8084-1e9c-42e0-950e-f519768e2a38)
 
 38. vim- Editor teks yang lebih kuat dan fleksibel, berbasis terminal.
+![Screenshot 2024-08-30 170923](https://github.com/user-attachments/assets/a7fd9eed-b48e-4ff7-b9d5-8772cf72a239)
+
 39. man - Menampilkan manual atau dokumentasi dari command tertentu.
+![man ls code](https://github.com/user-attachments/assets/170c14e1-b8a2-4674-b55d-bc3ca25d512c)
+![man ls](https://github.com/user-attachments/assets/633d8a7a-18db-49d9-849e-79b5403f37a4)
+
 40. history - Menampilkan daftar perintah yang telah dijalankan sebelumnya.
 ![9](https://github.com/user-attachments/assets/58682e15-f1fd-4886-9dec-053e90507fa4)
-
-![11](https://github.com/user-attachments/assets/febefff6-a3ef-479c-8869-4ccd51558ff2)
-
-![12](https://github.com/user-attachments/assets/53bb4771-a966-4cfd-89ad-f9db94b4623a)
-
-
-
-
 
 
 
@@ -127,7 +166,14 @@ KELAS  : SK3B
 
 
 42. cal - Command prompt ini berfungsi untuk menampilkan kalender pada bulan saat ini
+![44](https://github.com/user-attachments/assets/36e0f2e9-8a70-48a6-83cd-1dea16b3ddfe)
+
+
 43. df -h Menampilkan informasi penggunaan disk dengan format yang lebih mudah dibaca manusia.
+![37](https://github.com/user-attachments/assets/56585b84-7487-42ba-8aef-8480fba14df0)
+
+
+
 44. free -m- Menampilkan informasi penggunaan RAM dalam megabyte.
 45. ifconfig- Menampilkan informasi konfigurasi jaringan (sering digantikan oleh `ip` di sistem modern).
 ![13](https://github.com/user-attachments/assets/684d5882-6e6f-48fd-85f8-68201b348295)
@@ -138,96 +184,46 @@ KELAS  : SK3B
 
 47. sudo apt install traceroute - berfungsi untuk menginstal package traceroute pada sistem berbasis Debian atau Ubuntu
 48. traceroute - Melacak rute yang diambil paket menuju tujuan.
+![40](https://github.com/user-attachments/assets/52c97374-1c3a-464b-9caf-e2457377fb4e)
+
+
+
 49. uptime - Menampilkan berapa lama sistem telah berjalan sejak terakhir kali boot.
+![41](https://github.com/user-attachments/assets/d3d8600d-ae62-44c8-8121-0954c66c14be)
+
+
+
 50. date- Menampilkan atau mengatur tanggal dan waktu sistem.
-
-
-
-
-
-
-
-
-
-![18](https://github.com/user-attachments/assets/3f0010d2-d0c6-4546-b84d-1f65dd6ec589)
-![19 1](https://github.com/user-attachments/assets/0142de29-b642-43a2-804f-223c72d29a7a)
-
-![21](https://github.com/user-attachments/assets/5fe9044a-adb3-4e04-a4bd-fc7532f459be)
-
-
-
-![24](https://github.com/user-attachments/assets/99cd5a4a-bac8-4866-ac0e-388a083501d2)
-![27](https://github.com/user-attachments/assets/15356f09-33c6-4c92-952e-6cd267f62d04)
-
-
-
-
-![31 wget](https://github.com/user-attachments/assets/aa039802-214c-4d15-9221-f0f817a68df0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Screenshot 2024-08-30 172032](https://github.com/user-attachments/assets/9bf01e6b-b924-41ab-afd5-5f92ed8a2067)
 ![Screenshot 2024-08-30 172021](https://github.com/user-attachments/assets/0fa10c3e-ace7-4903-a96e-465a86cdb724)
-![Screenshot 2024-08-30 172014](https://github.com/user-attachments/assets/16bea83d-d7c3-4591-adad-e5c5f4827a29)
-![Screenshot 2024-08-30 171924](https://github.com/user-attachments/assets/83cd046f-833a-4d01-ad97-56ba96537155)
-![Screenshot 2024-08-30 171918](https://github.com/user-attachments/assets/b9c810d9-5553-4aec-9757-a9746c018606)
-
-![Screenshot 2024-08-30 171841](https://github.com/user-attachments/assets/d9114ed8-9480-4875-9f47-c47121dd69c5)
-![Screenshot 2024-08-30 171822](https://github.com/user-attachments/assets/5d7cce11-7e2f-46fb-9dc9-cfd600feb32f)
-![Screenshot 2024-08-30 171610](https://github.com/user-attachments/assets/1cae62ef-423e-4345-ae20-843c0c81a6f3)
-![Screenshot 2024-08-30 171412](https://github.com/user-attachments/assets/337dffa2-11ea-4329-8a4b-d9721e4556e7)
-
-
-![Screenshot 2024-08-30 171146](https://github.com/user-attachments/assets/5ff727f9-c7d7-40c2-82f8-35ea03b7c911)
-![Screenshot 2024-08-30 171109](https://github.com/user-attachments/assets/da6cc4bb-4c2f-4456-8a08-323515a82799)
-![Screenshot 2024-08-30 171039](https://github.com/user-attachments/assets/434457cc-0c89-419c-bc92-c811205bc380)
-![Screenshot 2024-08-30 170946](https://github.com/user-attachments/assets/457dd396-93df-4cfe-a48c-dd5bcc64b88a)
-![Screenshot 2024-08-30 170938](https://github.com/user-attachments/assets/64ce8215-290e-415b-a68b-eab374b62c09)
-
-![Screenshot 2024-08-30 170932](https://github.com/user-attachments/assets/eeab315f-5dab-474d-aa02-3b4799b5e591)
-![Screenshot 2024-08-30 170923](https://github.com/user-attachments/assets/a7fd9eed-b48e-4ff7-b9d5-8772cf72a239)
-![Screenshot 2024-08-30 170848](https://github.com/user-attachments/assets/930b5e0f-5c72-46b7-8163-b5cca9fbb63a)
-![Screenshot 2024-08-30 170841](https://github.com/user-attachments/assets/adbf033b-64f7-4ae7-ab93-8614b9ee8d4d)
-![Screenshot 2024-08-30 170833](https://github.com/user-attachments/assets/806c1381-efe5-4efb-9b73-159eb0566de3)
-
-![Screenshot 2024-08-30 170643](https://github.com/user-attachments/assets/3519b1ba-a2aa-4810-b352-56aa72041b95)
-![Screenshot 2024-08-30 170635](https://github.com/user-attachments/assets/6cac1603-34d2-4d85-9813-fc77fa4c9ec6)
-![Screenshot 2024-08-30 170511](https://github.com/user-attachments/assets/b310999d-05a0-4c87-a0c2-63cd1e28336c)
-![Screenshot 2024-08-30 170503](https://github.com/user-attachments/assets/54111723-082d-4d37-b34a-cfeada919838)
-![Screenshot 2024-08-30 170455](https://github.com/user-attachments/assets/b15ed0de-785f-4df5-8a59-f71160c31fb6)
-
-![Screenshot 2024-08-30 170355](https://github.com/user-attachments/assets/aa72848b-a409-4ad5-a2fc-0e267c2cc73d)
-![Screenshot 2024-08-30 170339](https://github.com/user-attachments/assets/0099efc6-e7c9-43df-986f-9aa1a47ff102)
-![Screenshot 2024-08-30 170331](https://github.com/user-attachments/assets/d803be7b-e0cd-46d8-adaf-7f322311591b)
-
-
-
-![Screenshot 2024-08-30 170125](https://github.com/user-attachments/assets/3e063ccd-85ee-40c6-9eb6-ce4525b7c3ad)
 
 
 
 
-![man ls](https://github.com/user-attachments/assets/633d8a7a-18db-49d9-849e-79b5403f37a4)
-
-
-![nano](https://github.com/user-attachments/assets/095d80b8-d150-4785-bda5-131526c46c88)
 
 
 
-![man ls code](https://github.com/user-attachments/assets/170c14e1-b8a2-4674-b55d-bc3ca25d512c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
