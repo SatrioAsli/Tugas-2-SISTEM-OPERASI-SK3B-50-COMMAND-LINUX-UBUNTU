@@ -69,6 +69,10 @@ KELAS  : SK3B
 
 
 15. less - Menampilkan isi file per halaman.
+
+
+
+
 16. head  menampilkan 5 baris pertama dari file
 
 ![Screenshot 2024-08-30 170841](https://github.com/user-attachments/assets/adbf033b-64f7-4ae7-ab93-8614b9ee8d4d)
@@ -79,6 +83,9 @@ KELAS  : SK3B
 
 
 18. more - Menampilkan isi file per halaman (lebih sederhana dari `less`).
+![Screenshot from 2024-08-30 20-09-10](https://github.com/user-attachments/assets/940eca53-0c92-4d7f-b34d-8f65777dc263)
+
+
 19. echo - Mencetak teks ke terminal.
 ![Screenshot 2024-08-30 170455](https://github.com/user-attachments/assets/b15ed0de-785f-4df5-8a59-f71160c31fb6)
 
@@ -126,6 +133,8 @@ KELAS  : SK3B
 
 
 31. unzip - Mengekstrak file ZIP.
+![Screenshot from 2024-08-30 20-08-26](https://github.com/user-attachments/assets/26fbcfe1-1ba7-4f6c-b443-703a24f24746)
+
 32. gzip - Command prompt ini berfungsi untuk mengkompress file biiasa menjadi sebuah arsip dengan tipe gzip
 ![38](https://github.com/user-attachments/assets/b1e48074-b1b1-4d3a-ab52-b88239af3f3a)
 
@@ -178,6 +187,10 @@ KELAS  : SK3B
 
 
 44. free -m- Menampilkan informasi penggunaan RAM dalam megabyte.
+![Screenshot from 2024-08-30 20-11-37](https://github.com/user-attachments/assets/2e2fbbb5-bf30-4d74-9f0c-d7eb91c8c169)
+
+
+
 45. ifconfig- Menampilkan informasi konfigurasi jaringan (sering digantikan oleh `ip` di sistem modern).
 ![13](https://github.com/user-attachments/assets/684d5882-6e6f-48fd-85f8-68201b348295)
 
@@ -186,6 +199,7 @@ KELAS  : SK3B
 
 
 47. ss - command prompt ini berfungsi untuk menampilkan informasi mengenai soket (socket) di sistem. ss (short for "socket stat") sering digunakan untuk menggantikan perintah netstat yang lebih lama karena lebih cepat dan memberikan informasi yang lebih rinci
+![Screenshot from 2024-08-30 20-17-44](https://github.com/user-attachments/assets/4543aebd-a7b6-4142-885a-595195c6393e)
 
 
 48. traceroute - Melacak rute yang diambil paket menuju tujuan.
