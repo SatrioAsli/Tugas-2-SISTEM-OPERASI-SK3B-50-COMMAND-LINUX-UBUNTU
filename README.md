@@ -61,6 +61,9 @@ KELAS  : SK3B
 ![20](https://github.com/user-attachments/assets/d19fd7af-ed01-46b7-8c08-25aae36573af)
 
 13. touch - Membuat file kosong baru atau memperbarui timestamp file.
+
+
+
 14.cat - Menampilkan isi file ke layar.
 ![Screenshot 2024-08-30 171039](https://github.com/user-attachments/assets/434457cc-0c89-419c-bc92-c811205bc380)
 
@@ -182,7 +185,9 @@ KELAS  : SK3B
 ![14](https://github.com/user-attachments/assets/0b8d3670-e3fc-48c2-b534-864e4bbc15f0)
 
 
-47. sudo apt install traceroute - berfungsi untuk menginstal package traceroute pada sistem berbasis Debian atau Ubuntu
+47. ss - command prompt ini berfungsi untuk menampilkan informasi mengenai soket (socket) di sistem. ss (short for "socket stat") sering digunakan untuk menggantikan perintah netstat yang lebih lama karena lebih cepat dan memberikan informasi yang lebih rinci
+
+
 48. traceroute - Melacak rute yang diambil paket menuju tujuan.
 ![40](https://github.com/user-attachments/assets/52c97374-1c3a-464b-9caf-e2457377fb4e)
 
