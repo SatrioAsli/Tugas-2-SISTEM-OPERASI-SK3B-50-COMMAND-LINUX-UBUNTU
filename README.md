@@ -70,6 +70,7 @@ KELAS  : SK3B
 
 15. less - Menampilkan isi file per halaman.
 
+![less](https://github.com/user-attachments/assets/baf7ece8-4464-49be-b1bd-87d3629dd13d)
 
 
 
